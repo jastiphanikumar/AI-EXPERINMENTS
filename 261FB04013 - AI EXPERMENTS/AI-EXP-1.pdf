@@ -1,0 +1,626 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 612. 792.]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6515
+>>
+stream
+0.200025 w
+0 G
+0.19 0.53 1. rg
+40. 747. 4. -32. re
+f
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.078 g
+52. 733. Td
+(Artificial Intelligence: Technical Definition & Framework) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.392 g
+52. 719. Td
+(Standard Reference & Canonical Taxonomy Specification | REV 4.2) Tj
+ET
+0.96 0.97 0.98 rg
+44. 699. m
+568. 699. l
+570.2091389993231587 699. 572. 697.2091389993231587 572. 695. c
+572. 671. l
+572. 668.7908610006768413 569.7908610006768413 667. 568. 667. c
+44. 667. l
+41.7908610006768271 667. 40. 669.2091389993231587 40. 671. c
+40. 695. l
+40. 697.2091389993231587 42.2091389993231729 699. 44. 699. c
+h
+f
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 g
+52. 686. Td
+(DOCUMENT ID) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 g
+180. 686. Td
+(EFFECTIVE DATE) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 g
+310. 686. Td
+(CLASSIFICATION) Tj
+ET
+BT
+/F2 8 Tf
+9.1999999999999993 TL
+0.392 g
+450. 686. Td
+(DOMAIN) Tj
+ET
+BT
+/F6 9 Tf
+10.3499999999999996 TL
+0.078 g
+52. 675. Td
+(AI-DEF-2025-V1) Tj
+ET
+BT
+/F6 9 Tf
+10.3499999999999996 TL
+0.078 g
+180. 675. Td
+(2025-01-15) Tj
+ET
+BT
+/F6 9 Tf
+10.3499999999999996 TL
+0.078 g
+310. 675. Td
+(Technical Standard) Tj
+ET
+BT
+/F6 9 Tf
+10.3499999999999996 TL
+0.078 g
+450. 675. Td
+(Computer Science) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.192 0.525 1. rg
+40. 653. Td
+(1. FORMAL DEFINITION) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.078 g
+40. 639. Td
+(Artificial Intelligence \(AI\) is defined as the capability of an engineered system to acquire, process, and apply structured) Tj
+T* (knowledge to perform tasks typically requiring cognitive functions. It encompasses algorithms that emulate perception,) Tj
+T* (reasoning, learning, and autonomous decision-making to achieve explicit objectives within defined operational environments.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.192 0.525 1. rg
+40. 588. Td
+(2. ARCHITECTURAL PILLARS) Tj
+ET
+0.96 0.97 0.98 rg
+44. 574. m
+296. 574. l
+298.2091389993231587 574. 300. 572.2091389993231587 300. 570. c
+300. 542. l
+300. 539.7908610006768413 297.7908610006768413 538. 296. 538. c
+44. 538. l
+41.7908610006768271 538. 40. 540.2091389993231587 40. 542. c
+40. 570. l
+40. 572.2091389993231587 42.2091389993231729 574. 44. 574. c
+h
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.078 g
+48. 562. Td
+(1. Perception) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+48. 551. Td
+(Processing sensor input, computer vision, acoustics, and NLP) Tj
+T* (representations.) Tj
+ET
+0.96 0.97 0.98 rg
+316. 574. m
+568. 574. l
+570.2091389993231587 574. 572. 572.2091389993231587 572. 570. c
+572. 542. l
+572. 539.7908610006768413 569.7908610006768413 538. 568. 538. c
+316. 538. l
+313.7908610006768413 538. 312. 540.2091389993231587 312. 542. c
+312. 570. l
+312. 572.2091389993231587 314.2091389993231587 574. 316. 574. c
+h
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.078 g
+320. 562. Td
+(2. Reasoning) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+320. 551. Td
+(Symbolic logic, probabilistic inference, automated planning, and) Tj
+T* (knowledge graphs.) Tj
+ET
+0.96 0.97 0.98 rg
+44. 532. m
+296. 532. l
+298.2091389993231587 532. 300. 530.2091389993231587 300. 528. c
+300. 500. l
+300. 497.7908610006768413 297.7908610006768413 496. 296. 496. c
+44. 496. l
+41.7908610006768271 496. 40. 498.2091389993231587 40. 500. c
+40. 528. l
+40. 530.2091389993231587 42.2091389993231729 532. 44. 532. c
+h
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.078 g
+48. 520. Td
+(3. Learning) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+48. 509. Td
+(Supervised, unsupervised, and reinforcement parameter) Tj
+T* (optimization.) Tj
+ET
+0.96 0.97 0.98 rg
+316. 532. m
+568. 532. l
+570.2091389993231587 532. 572. 530.2091389993231587 572. 528. c
+572. 500. l
+572. 497.7908610006768413 569.7908610006768413 496. 568. 496. c
+316. 496. l
+313.7908610006768413 496. 312. 498.2091389993231587 312. 500. c
+312. 528. l
+312. 530.2091389993231587 314.2091389993231587 532. 316. 532. c
+h
+f
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.078 g
+320. 520. Td
+(4. Autonomy) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+320. 509. Td
+(Closed-loop control, goal formulation, dynamic pathing, and) Tj
+T* (self-correction.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.192 0.525 1. rg
+40. 480. Td
+(3. SUBFIELD TAXONOMY MATRIX) Tj
+ET
+0.96 0.97 0.98 rg
+40. 466. 532. -18. re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+48. 454. Td
+(SUBFIELD) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+210. 454. Td
+(PRIMARY MECHANISM) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+430. 454. Td
+(KEY METRIC) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+48. 435. Td
+(Machine Learning \(ML\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+210. 435. Td
+(Statistical parameter optimization) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+430. 435. Td
+(Generalization Error) Tj
+ET
+0.9 G
+40. 430. m
+572. 430. l
+S
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+48. 417. Td
+(Deep Learning \(DL\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+210. 417. Td
+(Multi-layer representation learning) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+430. 417. Td
+(Feature Abstraction) Tj
+ET
+0.9 G
+40. 412. m
+572. 412. l
+S
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+48. 399. Td
+(Natural Language \(NLP\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+210. 399. Td
+(Transformer self-attention models) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+430. 399. Td
+(Perplexity / BLEU) Tj
+ET
+0.9 G
+40. 394. m
+572. 394. l
+S
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+48. 381. Td
+(Computer Vision \(CV\)) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+210. 381. Td
+(Convolutional & spatial embeddings) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+430. 381. Td
+(mAP / IoU) Tj
+ET
+0.9 G
+40. 376. m
+572. 376. l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.192 0.525 1. rg
+40. 360. Td
+(4. INTELLIGENCE SPECTRUM) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+40. 346. Td
+(• Artificial Narrow Intelligence \(ANI\): Task-specific optimization operating within defined boundaries.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+40. 334. Td
+(• Artificial General Intelligence \(AGI\): Cross-domain cognitive adaptability matching human versatility.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.078 g
+40. 322. Td
+(• Artificial Superintelligence \(ASI\): Theoretical operational capacity exceeding collective human capability.) Tj
+ET
+0.78 G
+40. 52. m
+572. 52. l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+40. 40. Td
+(Confidential & Standardized Reference Specification) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+530. 40. Td
+(Page 1 of 1) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20261007085036+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000006687 00000 n 
+0000008504 00000 n 
+0000000015 00000 n 
+0000000120 00000 n 
+0000006744 00000 n 
+0000006869 00000 n 
+0000006999 00000 n 
+0000007132 00000 n 
+0000007269 00000 n 
+0000007392 00000 n 
+0000007521 00000 n 
+0000007653 00000 n 
+0000007789 00000 n 
+0000007917 00000 n 
+0000008044 00000 n 
+0000008173 00000 n 
+0000008306 00000 n 
+0000008408 00000 n 
+0000008752 00000 n 
+0000008838 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <29D7129EEE576463F7ABA19D559FDAA0> <29D7129EEE576463F7ABA19D559FDAA0> ]
+>>
+startxref
+8942
+%%EOF
